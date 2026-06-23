@@ -1,2 +1,1 @@
-# EICR-Cyber-Retro-Battleground
-EICROSOFT-98™ has provided a free web game for everyone.
+Cyber Retro Battleground 🚀A fast-paced retro-styled web game with a cyberpunk neon aesthetic, optimized for mobile browsers.How to Play:Control: Use touch screen controls and on-screen buttons to move and shoot.Tech Stack: HTML5, CSS3, and JavaScript.License: Apache 2.0
